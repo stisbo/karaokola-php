@@ -1,0 +1,38 @@
+.popup {
+  position: fixed;
+  width: 100%;
+  opacity: 0.6;
+  top: 0px;
+  min-height: 200px;
+  height: 100%;
+  z-index: 2000;
+  background: #FFFFFF;
+  font-size: 20px;
+  text-align: center;
+  display: none;
+}
+
+.box-area {
+  display: inline-block;
+  margin: 10px;
+  background-color: #343a40;
+  border-radius: 10px;
+  color: white;
+}
+
+#buscador-general {
+  opacity: 1;
+  position: sticky;
+  top: 56px;
+  background: #fff;
+  z-index: 10;
+}
+#lista_menu_canciones{
+  min-height: 100px;
+  max-height: 250px;
+  overflow: auto;
+  background-color: #deaeec;
+}
+.table-striped tbody tr:nth-of-type(odd){
+  background-color: #51ed5244 !important;
+}

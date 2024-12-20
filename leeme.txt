@@ -1,0 +1,2 @@
+- Ruta principal "/"
+- Ruta de manejo "/priv/" (build de angular)

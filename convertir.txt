@@ -1,0 +1,7 @@
+1. Copiar 'ffmpeg.exe' dentro de una carpeta.
+
+2. Dentro de la misma carpeta copiar 'convertir.py' 
+
+3. Ejecutar 
+	python convertir.py D:\pistas 
+
